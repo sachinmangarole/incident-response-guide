@@ -191,7 +191,7 @@ Found an issue or have a suggestion? Please [open an issue](https://github.com/s
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.md) file for details.
 
 ```
 MIT License
@@ -304,5 +304,6 @@ If you find this guide helpful, please give it a ⭐️ on GitHub! It helps othe
 ---
 
 *"The best time to prepare for an incident was yesterday. The second best time is now."*
+
 
 </div>
