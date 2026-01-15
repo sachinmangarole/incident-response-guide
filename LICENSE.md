@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Sachin Mangarole]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -33,7 +33,7 @@ organizational context and requirements.
 
 If you adapt or build upon this guide in your own work, please provide 
 attribution by linking back to the original repository:
-https://github.com/your-username/incident-response-guide
+https://github.com/sachinmangarole/incident-response-guide
 
 ### Commercial Use
 
@@ -68,7 +68,7 @@ while protecting both contributors and users.
 If you have questions about how you can use this guide or want to discuss 
 licensing for specific use cases, please:
 
-- Open an issue: https://github.com/your-username/incident-response-guide/issues
-- Email: your.email@example.com
+- Open an issue: https://github.com/sachinmangarole/incident-response-guide/issues
+- Email: mangarole.sachin@gmail.com
 
 We're happy to discuss and help you use this content appropriately!
