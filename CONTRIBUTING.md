@@ -412,7 +412,7 @@ We maintain a list of top contributors based on:
 
 - **GitHub Issues**: For bugs and feature requests
 - **Discussions**: For questions and general discussion
-- **Email**: For private inquiries (your.email@example.com)
+- **Email**: For private inquiries (mangarole.sachin@gmail.com)
 
 ### Staying Updated
 
